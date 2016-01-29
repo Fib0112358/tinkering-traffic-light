@@ -1,4 +1,4 @@
-// wmwallace
+//Author: wmwallace+ oprice
 
 #define   LED_1   6
 #define   LED_2   10
@@ -40,26 +40,26 @@ void loop() {
   digitalWrite(LED_3, HIGH);
   delay(250);
   digitalWrite(LED_3, LOW);
-   delay(10);
+  delay(10);
   digitalWrite(LED_3, HIGH);
   delay(250);
   digitalWrite(LED_3, LOW);
-   delay(10);
+  delay(10);
   digitalWrite(LED_3, HIGH);
   delay(250);
   digitalWrite(LED_3, LOW);
   digitalWrite(LED_2, HIGH);
   delay(250);
   digitalWrite(LED_2, LOW);
-   delay(10);
+  delay(10);
   digitalWrite(LED_2, HIGH);
   delay(250);
   digitalWrite(LED_2, LOW);
-   delay(10);
+  delay(10);
   digitalWrite(LED_2, HIGH);
   delay(250);
   digitalWrite(LED_2, LOW);
-   delay(10);
+  delay(10);
   digitalWrite(LED_2, HIGH);
   delay(250);
   digitalWrite(LED_2, LOW);
